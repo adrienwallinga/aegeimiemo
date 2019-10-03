@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iecootaeb.youknownothing-jonsnow.com/sitemap.xml
